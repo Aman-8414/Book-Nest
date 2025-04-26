@@ -1,0 +1,12 @@
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\bin\Debug\net8.0\EcommProject_1144.Models.deps.json
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\bin\Debug\net8.0\EcommProject_1144.Models.dll
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\bin\Debug\net8.0\EcommProject_1144.Models.pdb
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\EcommProject_1144.Models.csproj.AssemblyReference.cache
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\EcommProject_1144.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\EcommProject_1144.Models.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\EcommProject_1144.Models.AssemblyInfo.cs
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\EcommProject_1144.Models.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\EcommProject_1144.Models.dll
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\refint\EcommProject_1144.Models.dll
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\EcommProject_1144.Models.pdb
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.Models\obj\Debug\net8.0\ref\EcommProject_1144.Models.dll
