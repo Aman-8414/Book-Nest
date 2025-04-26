@@ -1,0 +1,17 @@
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\bin\Debug\net8.0\EcommProject_1144.DataAccess.deps.json
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\bin\Debug\net8.0\EcommProject_1144.DataAccess.runtimeconfig.json
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\bin\Debug\net8.0\EcommProject_1144.DataAccess.dll
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\bin\Debug\net8.0\EcommProject_1144.DataAccess.pdb
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\bin\Debug\net8.0\EcommProject_1144.Models.dll
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\bin\Debug\net8.0\EcommProject_1144.Models.pdb
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.csproj.AssemblyReference.cache
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.AssemblyInfo.cs
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommPro.2111A047.Up2Date
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.dll
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\refint\EcommProject_1144.DataAccess.dll
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.pdb
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\EcommProject_1144.DataAccess.genruntimeconfig.cache
+D:\ASP.NET CORE\EcommProject_1144\EcommProject_1144.DataAccess\obj\Debug\net8.0\ref\EcommProject_1144.DataAccess.dll
